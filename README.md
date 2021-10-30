@@ -24,7 +24,7 @@ Based on the analysis, using Python, Pandas , and SQLAlchemy, the date column of
 #### December temperature statistics;
 ![December Temps](https://user-images.githubusercontent.com/85411967/139533273-9ca493d7-4c3b-4d1e-821a-b075be3d1ab2.png)
 
-Comparing the temperatures for the two months, we can see the following:
+Comparing the temperatures for the two month;
 
 - There were 12% more temperature points for June than there were for December.
 - The average temperature for December was 71 degrees, which is nearly four degrees cooler than June's average temperature of 74.9 degrees.
