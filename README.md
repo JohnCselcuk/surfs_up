@@ -16,4 +16,7 @@ The goal of this analysis is, Fictional company Waves and Ice Cream wants to det
 ## Results
 
 ### June and December Temperature Analysis
-Based on the analysis, we can see that there are 1,700 observations for the months of June. This includes the years between 2010 and 2017. The average, minimum, and maximum temperatures are listed below. The low standard deviation implies a relatively small spread across the temperature observations. This makes sense, as Oahu weather does not seem to fluctuate significantly.
+Based on the analysis, using Python, Pandas , and SQLAlchemy, the date column of the Measurements table was filtered in the hawaii.sqlite database to retrieve all the temperatures for the months of June and December. Those temperatures were converted to a list, a DataFrame was created from those lists, and then summary statistics were generated for each dataset.
+
+#### June temperature statistics showed the following:
+![June Temps](https://user-images.githubusercontent.com/85411967/139533230-894297f8-bb73-4f8b-bb0c-6dac051d30ed.png)
