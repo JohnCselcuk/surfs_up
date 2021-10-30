@@ -11,4 +11,4 @@ We used several tools to complete this Analysis:
 - Pandas and Numpy
 
 ## Overview of Analysis
-Fictional company Waves and Ice Cream wants to determine if opening a surf shop in Oahu, Hawaii has good business value. Temperature data for the months of June and December were analyzed to assist in determining if a surf and ice cream shop business is sustainable year-round.
+The goal of this analysis is, Fictional company Waves and Ice Cream wants to determine if opening a surf shop in Oahu, Hawaii has good business value. Temperature data for the months of June and December were analyzed to assist in determining if a surf and ice cream shop business is sustainable year-round.
