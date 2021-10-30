@@ -1,5 +1,5 @@
 # Surfs Up Analysis
-Follow the link to reach Data Sources:[Surfs Up Analysis](https://github.com/JohnCselcuk/surfs_up)
+Follow the link to reach Data Sources: [Surfs Up Analysis](https://github.com/JohnCselcuk/surfs_up)
 
 We used several tools to complete this Analysis:
 - Jupyter Notebook
