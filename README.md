@@ -29,3 +29,6 @@ Based on the analysis, using Python, Pandas , and SQLAlchemy, the date column of
 - There were 12% more temperature points for June than there were for December.
 - The average temperature for December was 71 degrees, which is nearly four degrees cooler than June's average temperature of 74.9 degrees.
 - The maximum temperature for June was 85 degrees, which is only two degrees warmer than December's maximum temperature of 83 degrees
+
+## Summary
+From our data we can tell what our temperatures are but since there are other attributes to the weather such as precipitation it shows that we can run additional queries to let us know whether or not people can come and visit the shop. If we are able to gain more data for the area we can run even more queries! From there we can decide how we would like to build the shop and what areas would make this a more prominent location for visitors to come.
